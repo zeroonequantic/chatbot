@@ -11,7 +11,7 @@ Cependant ce chatbot ne connait qu'un vocabulaire restreint et ne comprend pas p
 
 Ouvrir invite de commande
 
-2. git clone https://github.com/adm971/chatbot.git
+2. git clone https://github.com/zeroonequantic/chatbot.git
 
 3. cd chatbot
 
