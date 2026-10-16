@@ -17,4 +17,4 @@ Ouvrir invite de commande
 
 4. pip install -r requirements.txt
 
-5. python main.py
+5. python3 main.py
